@@ -46,7 +46,3 @@ src="https://img.shields.io/github/followers/ostafinskim?logo=github&style=for-t
 <a href="http://www.github.com/ostafinskim"><img src="https://github-readme-stats.vercel.app/api?username=ostafinskim&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ostafinskim's GitHub stats" /></a>
 
 <a href="http://www.github.com/ostafinskim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ostafinskim&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ostafinskim"><img src="https://activity-graph.herokuapp.com/graph?username=ostafinskim&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ostafinskim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostafinskim&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
