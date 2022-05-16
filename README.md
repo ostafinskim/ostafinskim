@@ -44,5 +44,3 @@ src="https://img.shields.io/github/followers/ostafinskim?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ostafinskim"><img src="https://github-readme-stats.vercel.app/api?username=ostafinskim&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ostafinskim's GitHub stats" /></a>
-
-<a href="http://www.github.com/ostafinskim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ostafinskim&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
