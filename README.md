@@ -15,9 +15,6 @@ src="https://img.shields.io/twitter/follow/ostafinskim?logo=twitter&style=for-th
 src="https://img.shields.io/github/followers/ostafinskim?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=ostafinskim&color=blueviolet)
-
-
 ### Skills
 
 <p align="left">
@@ -56,3 +53,5 @@ src="https://img.shields.io/github/followers/ostafinskim?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ostafinskim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/szalonyszaleniec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ostafinskim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ostafinskim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+![](https://komarev.com/ghpvc/?username=ostafinskim&color=blueviolet)
