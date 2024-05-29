@@ -20,7 +20,7 @@ I am passionate about building web applications that are user-friendly and acces
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with Me 📬
-- 🐦 [Site](https://ostafinski.cc)
+- 🕸️ [Site](https://ostafinski.cc)
 - 📫 [Email](mailto:ostafinskim@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/ostafinskim)
 
