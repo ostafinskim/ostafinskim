@@ -9,8 +9,8 @@ I am passionate about building web applications that are user-friendly and acces
 - **Frameworks & Libraries:** React, Next.js, Node.js,
 - **Tools & Platforms:** GitHub, Vercel, Netlify
 - **Databases:** MongoDB, PostgreSQL
-- **Methodologies:** Agile, Scrum, Kanban
-- **Cloud Services:** AWS, Google Cloud
+- **Methodologies:** Scrum
+- **Cloud Services:** Google Cloud
 - **DevOps:** Docker
 - **Testing:** Jest, React Testing Library
 - **Design:** Figma, Adobe XD
