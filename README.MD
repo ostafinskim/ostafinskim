@@ -7,19 +7,20 @@ Since July 2022, I’ve been working at Studio 24 Ltd, where I develop high-qual
 
 Before that, I completed a five-month full-stack internship at intive, gaining hands-on experience with Express.js, Node.js, React, and TypeScript.
 
-🛠 Tech Stack & Skills
+🛠 Tech Stack & Skills  
+
 Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS, SCSS
 Backend: Node.js, Express.js, Laravel, PHP
 Databases: PostgreSQL, MySQL, MongoDB
 CMS: WordPress, Craft CMS
 Tools & Practices: Git, CI/CD, Vite, Webpack, Jest, WCAG compliance
 
-🎯 My Focus Areas
+🎯 My Focus Areas  
 Building modern, scalable web applications
 Enhancing performance & accessibility for inclusive user experiences
 Collaborating with developers & designers to craft intuitive interfaces
 
-📬 Let’s Connect!
+📬 Let’s Connect!  
 I’m always open to discussions, collaborations, and new opportunities. If you'd like to chat or work on a project together, feel free to reach out!
 - 🕸️ [Site](https://ostafinski.cc)
 - 📫 [Email](mailto:ostafinskim@gmail.com)
