@@ -18,9 +18,9 @@ Tools & Practices: Git, CI/CD, Vite, Webpack, Jest, WCAG compliance
 
 ## 🎯 My Focus Areas  
 
-Building modern, scalable web applications
-Enhancing performance & accessibility for inclusive user experiences
-Collaborating with developers & designers to craft intuitive interfaces
+Building modern, scalable web applications  
+Enhancing performance & accessibility for inclusive user experiences  
+Collaborating with developers & designers to craft intuitive interfaces  
 
 ## 📬 Let’s Connect!  
 
