@@ -1,27 +1,26 @@
-👋 Hi, I'm Miroslaw Ostafinski!  
-I am a web developer with 3 years of experience in the software industry. My main focus has been on front-end development with React and TypeScript. I also have strong skills in back-end development using Node.js with TypeScript and have experience working with Laravel.
+Hi there! 👋🏼
 
-## About Me
-I am passionate about building web applications that are user-friendly and accessible. I enjoy working on projects that have a positive impact on society and help solve real-world problems. I am always looking to learn new technologies and improve my skills as a developer.
+I'm Miro Ostafinski, a JavaScript engineer with three years of experience building user-friendly web applications. I specialize in React, TypeScript, and Node.js, with a strong focus on accessibility (a11y), performance, and clean code.
 
-## Technical Skills 🛠️
-- **Languages:** JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js,
-- **Tools & Platforms:** GitHub, Vercel, Netlify
-- **Databases:** MongoDB, PostgreSQL
-- **Methodologies:** Scrum
-- **Cloud Services:** Google Cloud
-- **DevOps:** Docker
-- **Testing:** Jest, React Testing Library
-- **Design:** Figma, Adobe XD
+🚀 What I Do
+Since July 2022, I’ve been working at Studio 24 Ltd, where I develop high-quality digital experiences for diverse clients. My work involves frontend and backend development, ensuring accessible, performant, and maintainable applications.
 
-## Professional Goals 🚀
-- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my experience and technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+Before that, I completed a five-month full-stack internship at intive, gaining hands-on experience with Express.js, Node.js, React, and TypeScript.
 
-## Connect with Me 📬
+🛠 Tech Stack & Skills
+Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS, SCSS
+Backend: Node.js, Express.js, Laravel, PHP
+Databases: PostgreSQL, MySQL, MongoDB
+CMS: WordPress, Craft CMS
+Tools & Practices: Git, CI/CD, Vite, Webpack, Jest, WCAG compliance
+
+🎯 My Focus Areas
+Building modern, scalable web applications
+Enhancing performance & accessibility for inclusive user experiences
+Collaborating with developers & designers to craft intuitive interfaces
+
+📬 Let’s Connect!
+I’m always open to discussions, collaborations, and new opportunities. If you'd like to chat or work on a project together, feel free to reach out!
 - 🕸️ [Site](https://ostafinski.cc)
 - 📫 [Email](mailto:ostafinskim@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/ostafinskim)
-
-I’m looking forward to collaborating and build great things so let’s connect! 🌍
