@@ -2,8 +2,6 @@
 
 I have over 4 years of experience in the tech industry, where I've built digital solutions that are not just functional but also make a real impact. Whether it's developing government websites for millions of users or creating smooth e-commerce platforms, I'm passionate about building technology that is both powerful and inclusive.
 
----
-
 ## 💼 Professional Experience
 
 **Studio 24 Ltd (over 3 years)**  
