@@ -10,7 +10,7 @@ For the past few years, I've been part of a great team that builds web applicati
 I'm especially proud of helping websites reach AAA or AA accessibility standards. This means that people with disabilities can have the same digital experience as everyone else. For me, it's not just about following rules, but about making the web inclusive for everyone.
 
 **intive (5 months)**  
-Before joining Studio 24, I did a full-stack internship that helped me build a strong technical foundation. I worked on RESTful APIs and custom e-commerce platforms using tools like Next.js, Express.js, Node.js, PostgreSQL, React, and TypeScript.
+My career began here with a full-stack internship where I built custom e-commerce platforms and RESTful APIs from the ground up. This hands-on experience gave me a deep understanding of the modern web stack—specifically Next.js, Node.js, and PostgreSQL—and taught me how to deliver reliable, production-ready code.
 
 ## 🛠 Tech Stack & Skills  
 
@@ -19,12 +19,6 @@ Backend: Node.js, Express.js, Laravel, PHP
 Databases: PostgreSQL, MySQL, MongoDB  
 CMS: WordPress, Craft CMS  
 Tools & Practices: Git, CI/CD, Vite, Webpack, Jest, WCAG compliance  
-
-## 🎯 My Focus Areas  
-
-Building modern, scalable web applications  
-Enhancing performance & accessibility for inclusive user experiences  
-Collaborating with developers & designers to craft intuitive interfaces  
 
 ## 📬 Let’s Connect
 
