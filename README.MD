@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Miroslaw 👋
+# Hi there, I'm Miro 👋
 
 ### Full-Stack Developer
 
