@@ -18,11 +18,11 @@
 
 ## 🚀 About Me
 
-Full-stack developer with **4+ years** of commercial experience building web applications end to end — from database and API design through to polished, responsive user interfaces. Over the years I've worked on everything from high-traffic public sector platforms to secure internal business systems, and I care most about writing code that is clean, maintainable, and reliable in production.
+Full-stack **TypeScript** developer with **4+ years** of commercial experience building modern web applications end to end — from type-safe APIs and PostgreSQL data models through to polished, responsive React interfaces. Over the years I've worked on everything from high-traffic public sector platforms to secure internal business systems, and I care most about writing code that is clean, maintainable, and reliable in production.
 
-- 🔭 Currently building the digital platform at **TaxAssist**
-- 🧩 Comfortable across the whole stack — TypeScript, React/Next.js, Node, PHP, SQL
-- 🌍 Delivered projects for organisations like [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), and [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk)
+- 🔭 Currently building the digital platform at **TaxAssist** with **Next.js**, **React** & **PostgreSQL**
+- ⚡ My core stack: **TypeScript · Next.js · React · Node.js · PostgreSQL · Tailwind CSS**
+- 🌍 Delivered projects for organisations like [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk), and more
 - 📈 Always improving — architecture, code quality, and the details that make software feel good to use
 
 ## 💼 Experience
@@ -33,7 +33,7 @@ Working across the full stack to build and maintain the web applications that po
 
 ### Studio 24 Ltd — *Web Developer* · 3+ years
 
-Spent over three years building and maintaining web applications for some of the UK's most recognisable organisations, including [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), the [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), and [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk). The work spanned frontend development, backend logic, and CMS-driven sites, often against demanding requirements around performance, reliability, and accessibility — several of the sites I worked on met AA and AAA accessibility standards. It taught me how to work within established teams, deliver to real client deadlines, and treat quality and usability as core requirements rather than afterthoughts.
+Spent over three years building and maintaining web applications for some of the UK's most recognisable organisations, including [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), the [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk), and many more. The work spanned frontend development, backend logic, and CMS-driven sites, often against demanding requirements around performance, reliability, and accessibility — several of the sites I worked on met AA and AAA accessibility standards. It taught me how to work within established teams, deliver to real client deadlines, and treat quality and usability as core requirements rather than afterthoughts.
 
 ### intive — *Full-Stack Intern* · 5 months
 
@@ -41,29 +41,30 @@ Where my career started. I built custom e-commerce platforms and RESTful APIs fr
 
 ## 🛠 Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Also work with**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Cloud & DevOps**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
+**Tooling**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## 📬 Let's Connect
