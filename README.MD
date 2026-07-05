@@ -22,7 +22,7 @@ Full-stack developer with **4+ years** of commercial experience building web app
 
 - 🔭 Currently building the digital platform at **TaxAssist**
 - 🧩 Comfortable across the whole stack — TypeScript, React/Next.js, Node, PHP, SQL
-- 🌍 Delivered projects for organisations like **HS2, UK Parliament, Kinship, and The Fitzwilliam Museum**
+- 🌍 Delivered projects for organisations like [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), and [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk)
 - 📈 Always improving — architecture, code quality, and the details that make software feel good to use
 
 ## 💼 Experience
@@ -33,7 +33,7 @@ Working across the full stack to build and maintain the web applications that po
 
 ### Studio 24 Ltd — *Web Developer* · 3+ years
 
-Spent over three years building and maintaining web applications for some of the UK's most recognisable organisations, including HS2, the UK Parliament, Kinship, and The Fitzwilliam Museum. The work spanned frontend development, backend logic, and CMS-driven sites, often against demanding requirements around performance, reliability, and accessibility — several of the sites I worked on met AA and AAA accessibility standards. It taught me how to work within established teams, deliver to real client deadlines, and treat quality and usability as core requirements rather than afterthoughts.
+Spent over three years building and maintaining web applications for some of the UK's most recognisable organisations, including [W3C](https://www.w3.org), [HS2](https://www.hs2.org.uk), the [UK Parliament](https://www.parliament.uk), [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk), [Kinship](https://kinship.org.uk), and [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk). The work spanned frontend development, backend logic, and CMS-driven sites, often against demanding requirements around performance, reliability, and accessibility — several of the sites I worked on met AA and AAA accessibility standards. It taught me how to work within established teams, deliver to real client deadlines, and treat quality and usability as core requirements rather than afterthoughts.
 
 ### intive — *Full-Stack Intern* · 5 months
 
@@ -65,15 +65,6 @@ Where my career started. I built custom e-commerce platforms and RESTful APIs fr
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ostafinskim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostafinskim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 ## 📬 Let's Connect
 
